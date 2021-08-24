@@ -1,0 +1,9 @@
+{
+    "name": "woodland",
+    "attendee": 0,
+    "facility_type_ids": [
+        39,
+        115
+    ],
+    "page_size": 20
+}

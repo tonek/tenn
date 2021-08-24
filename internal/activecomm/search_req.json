@@ -1,0 +1,23 @@
+{
+    "name": "woodland",
+    "attendee": 0,
+    "date_times": [],
+    "facility_type_ids": [
+        39,
+        115
+    ],
+    "event_type_ids": [],
+    "reservation_group_ids": [],
+    "amenity_ids": [],
+    "facility_id": 0,
+    "equipment_id": 0,
+    "center_id": 0,
+    "resource_type": -1,
+    "client_coordinate": "",
+    "order_by_field": "name",
+    "order_direction": "asc",
+    "page_size": 20,
+    "start_index": 0,
+    "search_client_id": "0987d7ca-704e-4225-b998-9e78b58fe222",
+    "date_time_length": null
+}

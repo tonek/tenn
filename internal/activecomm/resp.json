@@ -1,0 +1,64 @@
+{
+    "headers": {
+        "response_code": "0000",
+        "response_message": "Successful",
+        "page_info": {
+            "order_by": "",
+            "total_page": 1,
+            "order_option": "ASC",
+            "total_records_per_page": 30,
+            "total_records": 0,
+            "page_number": 1
+        }
+    },
+    "body": {
+        "short_summary": "Aug 24, 2021 8:00 AM to Aug 24, 2021 12:00 PM, Multiple bookings",
+        "adjusted_message": "",
+        "summary": "Aug 24, 2021 8:00 AM to Aug 24, 2021 12:00 PM, Multiple bookings",
+        "original_datetime_length": {
+            "dates": [],
+            "hours_per_day": null,
+            "start_time": null
+        },
+        "original_reservation_times": [
+            {
+                "availability": null,
+                "start_event_datetime": "2021-08-24 08:00:00",
+                "end_event_datetime": "2021-08-24 09:00:00",
+                "error_summary": null,
+                "booking_identifier": null
+            },
+            {
+                "availability": null,
+                "start_event_datetime": "2021-08-24 09:00:00",
+                "end_event_datetime": "2021-08-24 10:00:00",
+                "error_summary": null,
+                "booking_identifier": null
+            },
+            {
+                "availability": null,
+                "start_event_datetime": "2021-08-24 11:00:00",
+                "end_event_datetime": "2021-08-24 12:00:00",
+                "error_summary": null,
+                "booking_identifier": null
+            }
+        ],
+        "reservation_times": [
+            {
+                "availability": "Unavailable",
+                "start_event_datetime": "2021-08-24 08:00:00",
+                "end_event_datetime": "2021-08-24 10:00:00",
+                "error_summary": null,
+                "booking_identifier": null
+            },
+            {
+                "availability": "Available",
+                "start_event_datetime": "2021-08-24 11:00:00",
+                "end_event_datetime": "2021-08-24 12:00:00",
+                "error_summary": null,
+                "booking_identifier": null
+            }
+        ],
+        "availability": "Partially Available"
+    }
+}
